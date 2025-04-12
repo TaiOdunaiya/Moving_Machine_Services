@@ -58,4 +58,4 @@ To update the website:
 2. Modify CSS files for styling adjustments
 3. Update images as needed in the root directory
 4. Ensure all links remain functional
-5. Test across different browsers for compatibility 
+5. Test across different browsers for compatibility. 
